@@ -1,1 +1,7 @@
-{\rtf1}
+class Cat{
+
+}
+
+class Test{
+
+}
